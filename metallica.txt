@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lars Ulrich",
+    "age": "58",
+    "job" "Bateri",
+    "info": "Lars Ulrich (d. 26 Aralık 1963), Danimarkalı müzisyen, besteci ve müzik prodüktörü. Amerikalı heavy metal grubu Metallica'nın kurucularından biri ve bateristi olarak tanınır. Gentofte, Danimarka doğumludur. Orta hâlli bir ailenin çocuğu olarak dünyaya gelmiştir. Küçük yaşlarında tenis oynamaya başlamıştır. 1980 yılında, Lars 16 yaşındayken tenis kariyerini ilerletmesi için Los Angeles, ABD'ye taşınmışlardır. Fakat Los Angeles'a ilk adım attığı günden itibaren Lars, müziğin kaderi olduğunu anlamış ve tenis oynamaktansa bateriye olan ilgisini keşfedip müziğe yoğunlaşmaya başlamıştır. Los Angeles gazetesi The Recycler'a ilan vererek James Hetfield'la tanışmıştır ve Metallica'yı kurmuşlardır.",
+    "image_url": "https://raw.githubusercontent.com/umuttcannn/Metallica/main/larsulrich.jpeg"
+  },
+  {
+    "name": "James Hetfield",
+    "age": "58",
+    "job" "Gitar",
+    "info": "James Alan Hetfield, Amerikalı müzisyen ve söz yazarı. Amerikalı heavy metal grubu Metallica'nın ana vokalisti, ritim gitaristi, ana söz yazarı olarak tanınır. Grubun kurucularından biridir. James Hetfield 3 Ağustos 1963 yılında doğmuştur.Kendisi; Alman, İngiliz ve İrlanda asıllıdır.Hetfield'ın babası Virgil (tır şoförüdür - daha sonra ailesini terk etmiştir) ve annesi Cynthia (sıradan bir opera sanatçısıdır) Hristiyan Bilimin katı taraftarlarındandı ve buna bağlı olarak James'in çocukluk yılları Hristiyan Bilimin etrafında geçti. Mensup oldukları dinin gereği olarak, Hetfield'ın ebeveynleri ilaçları ve diğer tıbbi tedavi şekillerini şiddetle reddedip inançlarına bağlı kalmışlardır. Bunun sonucunda annesi Cynthia; 1979 yılında, James daha 16 yaşındayken kanserden ölmüştür. James 1996 yılında, Load albümünün turundayken de babası öldü.",
+    "image_url": "https://raw.githubusercontent.com/umuttcannn/Metallica/main/jameshetfield.jpg"
+  },
+  {
+    "name": "Cliff Burton",
+    "age": "∞",
+    "job" "Bas Gitar",
+    "info": "Clifford Lee Burton (10 Şubat 1962 – 27 Eylül 1986), thrash/heavy metal grubu Metallica'nın ikinci bas gitaristidir. Gruba 1982 yılında Ron McGovney'in yerine katılmıştır. Heavy metal müziğin en iyi basçılarından biri olarak görülür.İsveç'te gerçekleşen bir konserden dönerken yolun buzlanması nedeniyle kayan tur otobüsünden dışarı fırlayarak ölmüştür. Hayatı ve ölümü birkaç şarkıya konu olmuş ve Billy Sheehan, Les Claypool, John Myung gibi müzisyenlerin tarzlarını etkilemiştir. Metallica bu basçısına ...And Justice for All albümünden 9:49'luk bir bölüm ayırmış ve To Live is To Die şarkısını ona ithaf etmiştir. Bu şarkıda doğumdan ölüme kadar hayatı sadece melodiyle ve sonlara doğru bir kez söylenmiş bir dörtlükle metalci ağıtı şeklinde anlatılmıştır.",
+    "image_url": "https://raw.githubusercontent.com/umuttcannn/Metallica/322b4559718adb4424eb79863e916304c67cb0c8/cliffburton.jpg"
+  },
+  {
+    "name": "Ron McGovney",
+    "age": "59",
+    "job" "Bas Gitar",
+    "information": "Ron McGovney, (d. 2 Kasım 1962) 1981 yılında kurulan Metallica grubunun Cliff Lee Burton'dan önceki ilk basçısıdır. Metallica'dan ayrıldıktan/uzaklaştırıldıktan sonra müziğe olan ilgisini yitiren sanatçı uzun bir süre sonra eski Hirax vokalisti Katon W. De Pena ile birlikte Phantasm adlı gruba katıldı, fakat Metallica'nın ilk basçısı unvanını taşımakta zorlanan müzisyen birkaç gösteriden sonra gruptan ayrılmayı tercih etti.",
+    "image_url": "https://raw.githubusercontent.com/umuttcannn/Metallica/main/ronmcgovney.jpg"
+  },
+  {
+    "name": "Dave Mustaine",
+    "age": "60",
+    "job" "Solo Gitar",
+    "info": "David Scott Mustaine (d. 13 Eylül 1961, Kaliforniya), Megadeth grubunun kurucusu, vokalisti ve gitaristidir. Panic ve Metallica gruplarında gitaristlik yapmış, Megadeth ve MD.45 isimli grupları kurmuştur. Megadeth grubunda hâlen vokalist ve gitaristlik yapmaktadır. David Mustaine, 13 Eylül 1961'de Emily David ve John Mustaine'in çocuğu olarak La Mesa, Kaliforniya'da dünyaya geldi. Babasının ailesi köken olarak Fransız, Kanadalı, İrlandalı ve Finlandiyalı iken, annesi ise Alman kökenliydi. Mustaine, Yehova'nın Şahitleri inancına uygun olarak yetiştirildi.",
+    "image_url": "https://raw.githubusercontent.com/umuttcannn/Metallica/main/davemustaine.jpeg"
+  },
+  {
+    "name": "Robert Trujillo",
+    "age": "57",
+    "job" "Bas Gitar",
+    "info": "Roberto Agustin Miguel Santiago Samuel Trujillo Veracruz (d. 23 Ekim 1964, Santa Monica, Kaliforniya), önceden Oblivion'da sonra Metallica'da bas gitaristlik yapmakta olan bir müzisyendir. Çocukluğu ve gençliği Venice Beach'de geçti. Çaldığı ilk grup Oblivion'dur. 1989'daki Suicidal Tendencies ile birlikte olan ilk profesyonel deneyimle birlikte sahnedeki duruşu ve tavırları sayesinde Suicidal Tendencies, Infectious Grooves ve Ozzy Osbourne'un grubunda çalıştı. Venice Beach Dog Town da doğup büyüdü. Trujillo, Led Zeppelin'den Motown'a kadar her şeyi dinledi. Trujillo, kendine has bir ritim ve tavır geliştirmişti ve 20'li yaşlarda çok çeşitli ufak gruplarda çalmaya başladı. Daha sonra yakın arkadaşı olan Suicidal Tendencies gitaristi Rocky George sayesinde yine Suicidal Tendencies üyesi olan Mike Muir ile tanıştı. Trujillo'nun kendisini, rock dünyasında çok değişik bir yeteneğe sahip olarak yetiştirmesini sağladı.",
+    "image_url": "https://raw.githubusercontent.com/umuttcannn/Metallica/main/roberttrujillo.jpg"
+  }
+]
