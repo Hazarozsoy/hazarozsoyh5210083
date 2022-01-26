@@ -24,7 +24,7 @@
     "name": "Ron McGovney",
     "age": "59",
     "job": "Bas Gitar",
-    "information": "Ron McGovney, (d. 2 Kasım 1962) 1981 yılında kurulan Metallica grubunun Cliff Lee Burton'dan önceki ilk basçısıdır. Metallica'dan ayrıldıktan/uzaklaştırıldıktan sonra müziğe olan ilgisini yitiren sanatçı uzun bir süre sonra eski Hirax vokalisti Katon W. De Pena ile birlikte Phantasm adlı gruba katıldı, fakat Metallica'nın ilk basçısı unvanını taşımakta zorlanan müzisyen birkaç gösteriden sonra gruptan ayrılmayı tercih etti.",
+    "information": "Ron McGovney, (d. 2 Kasım 1962) 1981 yılında kurulan Metallica grubunun Cliff Lee Burton'dan önceki ilk basçısıdır. Metallica'dan ayrıldıktan uzaklaştırıldıktan sonra müziğe olan ilgisini yitiren sanatçı uzun bir süre sonra eski Hirax vokalisti Katon W. De Pena ile birlikte Phantasm adlı gruba katıldı, fakat Metallica'nın ilk basçısı unvanını taşımakta zorlanan müzisyen birkaç gösteriden sonra gruptan ayrılmayı tercih etti.",
     "image_url": "https://raw.githubusercontent.com/Hazarozsoy/hazarozsoyh5210083/main/ronmcgovney.jpg"
   },
   {
