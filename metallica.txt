@@ -1,5 +1,4 @@
-
-{
+[
   {
     "name": "Lars Ulrich",
     "age": "58",
